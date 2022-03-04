@@ -1,7 +1,7 @@
 {
   "name": "@gravyswap/testnet-sdk",
   "license": "MIT",
-  "version": "2.4.94",
+  "version": "2.5.02",
   "description": "🛠 An SDK for building applications on top of Gravyswap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@gravyswap/gravyswap-core": "^0.1.1",
+    "@gravyswap/gravy-swap-core": "^0.1.2",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
